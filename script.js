@@ -1,0 +1,1 @@
+console.log("Website Fauzan Iskandar berhasil dijalankan!");
